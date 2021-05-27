@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "nuxt-ts",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "core-js": "^3.9.1",
-    "nuxt": "^2.15.3"
+    "firebase": "^8.6.2",
+    "nuxt": "^2.15.3",
+    "vue-star-rating": "^1.7.0"
   },
   "devDependencies": {
     "@nuxt/types": "^2.15.3",
