@@ -3,13 +3,13 @@
 </template>
  
 <script lang="ts">
-import Vue from 'vue'
- 
+import Vue from "vue";
+
 export default Vue.extend({
   created() {
-    this.$router.push('/shop/')
+    this.$router.push("/shop/");
   },
-})
+});
 </script>
  
 <style>

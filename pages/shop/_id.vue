@@ -182,7 +182,7 @@ textarea {
   margin-top: 32px;
   cursor: pointer;
   color: white;
-  background-color: lightcoral;
+  background-color: rgb(90, 114, 98);
   border: 0px;
 }
 </style>
