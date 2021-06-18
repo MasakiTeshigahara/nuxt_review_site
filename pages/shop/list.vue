@@ -18,6 +18,7 @@
 import Vue from "vue";
 
 export interface Shop {
+  //Shop.vueに渡すための変数の宣言
   image?: string;
   shopName?: string;
   score?: Number;

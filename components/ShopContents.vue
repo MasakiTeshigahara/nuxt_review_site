@@ -44,11 +44,14 @@ export default {
 };
 </script>
 <style>
+/* .shopContents {
+  text-align: center;
+} */
 .text {
   max-width: 200px;
 }
 .title {
-  font-family: Arial black;
+  font-family: Arial;
   font-size: 30px;
   margin-bottom: 10px;
 }

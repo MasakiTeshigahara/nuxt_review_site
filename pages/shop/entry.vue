@@ -63,7 +63,7 @@ export default Vue.extend({
           image: this.shop.image,
         })
         .then((ref) => {
-          //登録処理が成功した場合
+          //then登録処理が成功した場合
           this.entryDocId = ref.id;
           //refはidという変数を持っている
           this.shop.shopName = "";
